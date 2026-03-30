@@ -10,9 +10,6 @@ This project replicates the procedure of Juzek & Ward (2025) to investigate  whe
 - scipy
 - numpy
 
-Install with:
-pip install biopython langdetect pandas scipy numpy
-
 ### Google Colab
 - transformers
 - torch
